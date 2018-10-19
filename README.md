@@ -1,5 +1,6 @@
 # Hashstats
 
+```
   _    _           _         _        _       
  | |  | |         | |       | |      | |      
  | |__| | __ _ ___| |__  ___| |_ __ _| |_ ___ 
@@ -7,7 +8,7 @@
  | |  | | (_| \__ \ | | \__ \ || (_| | |_\__ \
  |_|  |_|\__,_|___/_| |_|___/\__\__,_|\__|___/
                                              
-
+```
 
 A little utility for performing password analysis on Active Directory passwords cracked with Hashcat.
 
