@@ -69,6 +69,12 @@ Command line options:
 	 -s  User search	Search for a user in the cracked output (./hashstats.sh -c file -s username)
 	 -r  HTML report	Generate an HTML report to drill down on various metrics
 ```
+## To do
+
+-Add in HTML report option
+-Fuzzy search for users
+-Fix up code/error handling
+-TBD
 
 ## Authors
 
