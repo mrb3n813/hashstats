@@ -126,6 +126,25 @@ A little utility for performing password analysis on Active Directory passwords 
       1 Fall2018
       1 Password1
       1 Letmein!
+      
+      
+
+./hashstats.sh -c samples/cracked.txt -s roadrunner
+
+  _    _           _         _        _       
+ | |  | |         | |       | |      | |      
+ | |__| | __ _ ___| |__  ___| |_ __ _| |_ ___ 
+ |  __  |/ _` / __| '_ \/ __| __/ _` | __/ __|
+ | |  | | (_| \__ \ | | \__ \ || (_| | |_\__ \
+ |_|  |_|\__,_|___/_| |_|___/\__\__,_|\__|___/
+                                             
+
+A little utility for performing password analysis on Active Directory passwords cracked with Hashcat
+
+[+] Password found for acme.local\roadrunner
+[+] NTLM hash is: cc5fa550ef1817dcab93fdd7fa40946
+[+] Cleartext password is: Welcome1!
+      
 ```
 
 ## To do
