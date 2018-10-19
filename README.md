@@ -71,10 +71,12 @@ Command line options:
 ```
 ## To do
 
+```
 -Add in HTML report option
 -Fuzzy search for users
 -Fix up code/error handling
 -TBD
+```
 
 ## Authors
 
